@@ -1,0 +1,9 @@
+/tests/
+/CMakeFiles/
+/build/
+/include/
+
+.vs/
+out/
+
+CMakeCache.txt
